@@ -26,7 +26,7 @@ public class Utils {
                 sum = item;
                 continue;
             }
-//            sum += item;
+//            sum += item; // WONT WORK , what + means?? solution below #sumWorking
         }
         return sum;
     }
