@@ -19,7 +19,7 @@ int main(){
 
     Some<int> k;
     Some<double> z;
-    Some<Some<int>> wtf;
+    Some<Some<Some<Some<Some<Some<int>>>>>> wtf;
 
     say(k);
     say(z);
