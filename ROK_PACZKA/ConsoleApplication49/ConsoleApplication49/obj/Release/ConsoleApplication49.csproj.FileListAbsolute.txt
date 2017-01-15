@@ -1,0 +1,5 @@
+C:\Users\Tomek\documents\visual studio 2013\Projects\ConsoleApplication49\ConsoleApplication49\bin\Release\ConsoleApplication49.exe.config
+C:\Users\Tomek\documents\visual studio 2013\Projects\ConsoleApplication49\ConsoleApplication49\bin\Release\ConsoleApplication49.exe
+C:\Users\Tomek\documents\visual studio 2013\Projects\ConsoleApplication49\ConsoleApplication49\bin\Release\ConsoleApplication49.pdb
+C:\Users\Tomek\documents\visual studio 2013\Projects\ConsoleApplication49\ConsoleApplication49\obj\Release\ConsoleApplication49.exe
+C:\Users\Tomek\documents\visual studio 2013\Projects\ConsoleApplication49\ConsoleApplication49\obj\Release\ConsoleApplication49.pdb

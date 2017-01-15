@@ -1,0 +1,6 @@
+c:\users\tomek\documents\visual studio 2013\Projects\ConsoleApplication51\ConsoleApplication51\bin\Debug\ConsoleApplication51.exe.config
+c:\users\tomek\documents\visual studio 2013\Projects\ConsoleApplication51\ConsoleApplication51\bin\Debug\ConsoleApplication51.exe
+c:\users\tomek\documents\visual studio 2013\Projects\ConsoleApplication51\ConsoleApplication51\bin\Debug\ConsoleApplication51.pdb
+c:\users\tomek\documents\visual studio 2013\Projects\ConsoleApplication51\ConsoleApplication51\obj\Debug\ConsoleApplication51.csprojResolveAssemblyReference.cache
+c:\users\tomek\documents\visual studio 2013\Projects\ConsoleApplication51\ConsoleApplication51\obj\Debug\ConsoleApplication51.exe
+c:\users\tomek\documents\visual studio 2013\Projects\ConsoleApplication51\ConsoleApplication51\obj\Debug\ConsoleApplication51.pdb
